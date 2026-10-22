@@ -1,0 +1,24 @@
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.apk
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Secrets
+keystore.properties
+*.jks
+*.keystore
+
+# Local toolchain (compile-verified builds; ~1.5GB, delete to clean up)
+.toolchain/
