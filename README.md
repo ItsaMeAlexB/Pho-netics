@@ -1,7 +1,6 @@
 # Phở-netics
 
-A neuroscience-grounded **Southern Vietnamese** learning app for English speakers, built
-from the design spec in this repo (`Phở-netics.dotx`).
+A neuroscience-grounded **Southern Vietnamese** learning app for English speakers.
 
 **Status:** the full learning engine is built and green (42 unit tests) — see
 `docs/ARCHITECTURE.md` for the complete, up-to-date architecture and decisions. Still to
